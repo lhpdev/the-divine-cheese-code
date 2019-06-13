@@ -1,36 +1,33 @@
 # the-divine-cheese-code
 
-FIXME: description
+Look. We really need this cheese back. It ain't no joke. And Clojure is going to help us solve this riddle...
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from this link!
 
 ## Usage
 
-FIXME: explanation
+Very easy!
 
-    $ java -jar the-divine-cheese-code-0.1.0-standalone.jar [args]
+$ java -jar the-divine-cheese-code-1.0.0-standalone.jar [args]
 
 ## Options
 
-FIXME: listing of options this app accepts.
+This is that cheese
+![Alt text](resources/cheese.jpg?raw=true "Title")
 
 ## Examples
 
-...
+See the cheese.
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+ Olives gets nothing on Firefox and Chrome
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 lhpdev
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
